@@ -39,7 +39,7 @@
     "puppeteer-core": "^21.0.3",
     "squoosh": "discourse/squoosh#dc9649d",
     "tidy-jsdoc": "^1.4.1",
-    "typescript": "^5.1.4"
+   
   },
   "scripts": {
     "lint": "concurrently \"npm:lint:*(!fix)\" --names \"lint:\"",
