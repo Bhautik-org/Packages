@@ -1,7 +1,6 @@
 {
   "name": "discourse",
   "version": "1.0.0",
-  "repository": "https://github.com/discourse/discourse",
   "author": "Discourse",
   "license": "GPL-2.0-only",
   "devDependencies": {
