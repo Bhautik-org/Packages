@@ -25,16 +25,16 @@
     "workbox-routing": "^4.3.1",
     "workbox-strategies": "^4.3.1",
     "workbox-sw": "^4.3.1",
-    "cool-tool": "^1.0.0", // Additional tool 1
-    "power-utils": "^2.0.0", // Additional tool 2
-    "data-magic": "^3.0.0", // Additional tool 3
-    "dev-helper": "^4.0.0", // Additional tool 4
-    "code-wizard": "^5.0.0", // Additional tool 5
-    "automation-guru": "^6.0.0", // Additional tool 6
-    "efficiency-pro": "^7.0.0", // Additional tool 7
-    "task-master": "^8.0.0", // Additional tool 8
-    "toolbox-plus": "^9.0.0", // Additional tool 9
-    "feature-fixer": "^10.0.0" // Additional tool 10
+    "cool-tool": "^1.0.0", 
+    "power-utils": "^2.0.0", 
+    "data-magic": "^3.0.0", 
+    "dev-helper": "^4.0.0", 
+    "code-wizard": "^5.0.0", 
+    "automation-guru": "^6.0.0",
+    "efficiency-pro": "^7.0.0", 
+    "task-master": "^8.0.0", 
+    "toolbox-plus": "^9.0.0", 
+    "feature-fixer": "^10.0.0" 
   },
   "devDependencies": {
     "@mixer/parallel-prettier": "^2.0.3",
