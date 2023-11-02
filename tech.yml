@@ -1,35 +1,12 @@
 repo_name: Bhautik-org/Packages
-report_id: eb2c8fbd6a1fcd9d9a9b661545d71b64
+report_id: 814de55252fb1087329ed617f181bfbe
 repo_type: Public
-timestamp: '2023-11-02T12:55:43+00:00'
+timestamp: '2023-11-02T13:43:22+00:00'
 requested_by: DotEsparto1
 provider: github
 branch: main
-detected_tools_count: 10
+detected_tools_count: 2
 tools:
-- name: JavaScript
-  description: Lightweight, interpreted, object-oriented language with first-class
-    functions
-  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-  open_source: true
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Languages
-  imageURL: https://img.stackshare.io/service/1209/javascript.jpeg
-  detection_source:
-  - package.json
-- name: Chart.js
-  description: Simple, clean and engaging charts for designers and developers
-  website_url: http://www.chartjs.org/
-  version: 3.5.1
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Javascript Utilities & Libraries
-  imageURL: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
-  detection_source_url: package.json
-  detection_source:
-  - package.json
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -40,84 +17,10 @@ tools:
   imageURL: https://img.stackshare.io/service/1046/git.png
   detection_source:
   - Repo Metadata
-- name: npm
-  description: The package manager for JavaScript.
-  website_url: https://www.npmjs.com/
-  open_source: false
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Front End Package Manager
-  imageURL: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
-  detection_source:
-  - package.json
-- name: Font Awesome
-  description: The internet's most popular icon toolkit
-  website_url: https://fontawesome.com/
-  version: 5.15.1
-  open_source: true
-  hosted_saas: false
-  category: Design
-  sub_category: Fonts
-  imageURL: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
-  detection_source_url: package.json
-  detection_source:
-  - package.json
 - name: NPM Trends
   website_url: https://www.npmtrends.com/
   open_source: false
   hosted_saas: false
   imageURL: https://img.stackshare.io/service/12294/empty-logo-square.png
-  detection_source:
-  - package.json
-- name: "@fortawesome/fontawesome-free"
-  description: The iconic font, CSS, and SVG framework
-  package_url: https://www.npmjs.com/@fortawesome/fontawesome-free
-  version: 5.15.1
-  license: CC-BY-4.0,OFL-1.1,MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/17170/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
-  detection_source_url: package.json
-  detection_source:
-  - package.json
-- name: chrome-remote-interface
-  description: Chrome Debugging Protocol interface
-  package_url: https://www.npmjs.com/chrome-remote-interface
-  version: 0.31.3
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/18589/default_5c7de077cac4a68f32e17c8de98e761949c60ca1.png
-  detection_source_url: package.json
-  detection_source:
-  - package.json
-- name: jsdoc
-  description: An API documentation generator for JavaScript
-  package_url: https://www.npmjs.com/jsdoc
-  version: 4.0.0
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/16017/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: package.json
-  detection_source:
-  - package.json
-- name: moment-timezone
-  description: Parse and display moments in any timezone
-  package_url: https://www.npmjs.com/moment-timezone
-  version: 0.5.39
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  imageURL: https://img.stackshare.io/package/16298/default_8b65a873fd3277d73483d6846fa38192391abf23.png
-  detection_source_url: package.json
   detection_source:
   - package.json
