@@ -18,8 +18,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Bhautik-org/Packages](https://github.com/Bhautik-org/Packages)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|2<br/>Tools used|1<br/>Contributors|11/08/23 <br/>Report generated|11/02/23<br/>Last commit date|
-|------|------|------|------|
+|2<br/>Tools used|11/10/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/devops.svg'/> DevOps (1)
