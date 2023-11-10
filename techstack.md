@@ -3,12 +3,14 @@
 ## Tech Stack
 Bhautik-org/Packages is built on the following main stack:
 
+
 Full tech stack [here](/techstack.md)
 --- Readme.md Snippet without images End ---
 
 --- Readme.md Snippet with images Start ---
 ## Tech Stack
 Bhautik-org/Packages is built on the following main stack:
+
 
 Full tech stack [here](/techstack.md)
 --- Readme.md Snippet with images End ---
