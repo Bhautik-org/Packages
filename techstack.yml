@@ -1,11 +1,12 @@
 repo_name: Bhautik-org/Packages
-report_id: 86485a88836cb6009feb3909554aa45e
+report_id: 7e4e998a11d38385190dc0b27a504c6a
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T17:18:07+00:00'
+timestamp: '2024-03-06T17:53:32+00:00'
 requested_by: DotEsparto1
 provider: github
 branch: main
-detected_tools_count: 2
+detected_tools_count: 1
 tools:
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -15,10 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Bhautik-org/Packages
   detection_source: Repo Metadata
-- name: NPM Trends
-  website_url: https://www.npmtrends.com/
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
-  detection_source: package.json
